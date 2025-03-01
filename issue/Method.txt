@@ -1,0 +1,9 @@
+Cai NodeJS moi nhat 23.7.0
+copy lai phan dependencies cua Tuan
+Xoa thu muc node_modules cua du an
+Cai lai thu vien : npm install
+
+Cai nodemon global: npm install nodemon -g
+Cai babel global: npm install @babel/node -g
+npm install -g sequelize-cli
+npm install -g sequelize 

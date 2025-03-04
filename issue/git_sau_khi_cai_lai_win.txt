@@ -1,0 +1,2 @@
+git config --global --add safe.directory "D:\GIAHUY\HoiDanIT\Khoa hoc Fullstack SERN (SQL, Express.
+js, React.js, Node.js) Web Developer\project\Fullstack-express"

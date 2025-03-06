@@ -10,7 +10,8 @@ let initWebRoutes = (app) => {
   router.post("/post-crud", homeController.postCRUD);
   router.get("/get-crud", homeController.displayGetCRUD);
   router.get("/edit-crud", homeController.getEditCRUD);
-  router.post("/put-crud", homeController.putCRUD);
+  router.post("/put-crud", homeController.putCRUD); //phuong thuc .put chua thuc hien duoc
+  router.get("/delete-crud", homeController.deleteCRUD); //the a cho nut delete mac dinh la phuong thuc get
   return app.use("/", router);
 };
 

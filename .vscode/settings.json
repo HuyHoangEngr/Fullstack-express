@@ -1,0 +1,8 @@
+{
+    "editor.detectIndentation": true,
+    "editor.tabSize": 8,
+    "editor.autoIndent": "full",
+    "prettier.tabWidth": 4,
+    "editor.wordWrap": "bounded",
+    "prettier.proseWrap": "always"
+}

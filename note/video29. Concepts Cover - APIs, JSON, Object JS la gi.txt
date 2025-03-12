@@ -1,0 +1,9 @@
+backend: node.js (database) giao tiep voi database de tra ve data cho frontend
+frontend: react.js (giao diện người dùng) giao tiep voi backend de lay du lieu thong qua APIs. Render ra giao dien nguoi dung.
+APIs
+
+http://localhost:8081/get-crud -> API (duong link ULR tren server de nha lai du lieu cho chúng ta)
+object -> json (json: form chuyen doi du lieu -  javascript object notation)
+
+database => data
+

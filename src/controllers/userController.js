@@ -23,7 +23,7 @@ let handleLogin = async (req, res) => {
 };
 
 let handleGetAllUsers = async (req, res) => {
-    let id = req.body.id; //All, id
+    let id = req.query.id; //All, id req.query truyen tham so truc tiep tren link goi di
 
     if (!id) {
         return res.status(200).json({
